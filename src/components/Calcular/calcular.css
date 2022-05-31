@@ -1,0 +1,6 @@
+.button {
+  padding: 80px 4px;
+  border-radius: 2px;
+  display: flex;
+  flex-direction: column;
+}
